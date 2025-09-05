@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: pamps
+Version: 0.1.0
+Summary: Pamps is a social posting app
+Home-page: pamps.io
+Author: Melon Husky
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: ipython
+Requires-Dist: ipdb
+Requires-Dist: sdb
+Requires-Dist: pip-tools
+Requires-Dist: pytest
+Requires-Dist: pytest-order
+Requires-Dist: httpx
+Requires-Dist: black
+Requires-Dist: flake8
+Dynamic: author
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+Pamps is a social posting app
